@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **s.ezzati.30.dec.1999@gmail.com**
+- 📫 How to reach me [Sohrab Ezzati](s.ezzati.30.dec.1999@gmail.com)
 
 - ⚡ Fun fact **No fun fact** 😂
 
