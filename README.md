@@ -26,7 +26,7 @@
 
 <p align="left">
   <a href="https://t.me/SohrabEzzati" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" alt="SohrabEzzati" height="30" width="40" /></a>
-  <a href="s.ezzati.30.dec.1999@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Gmail_2020.png?20201006131608" alt="SohrabEzzati" height="30" width="40" /></a>
+  <a href="https://t.me/s.ezzati.30.dec.1999@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Gmail_2020.png?20201006131608" alt="SohrabEzzati" height="30" width="40" /></a>
 
 </p>
 
