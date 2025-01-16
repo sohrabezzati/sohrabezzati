@@ -4,6 +4,8 @@
 
 <image style="position:absolute" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477rocgeqcoonxl87kicf6guefncc0qyjkmag0yl0z&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" height="300"  frameBorder="0" class="giphy-embed" allowFullScreen></image>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohrabezzati&label=Profile%20views&color=1c1c1c&style=flat" alt="Masooma" /> </p>
+
 - 🌱 I’m currently learning mobile app development **Flutter**
 
 - 💬 Ask me about **Flutter**
